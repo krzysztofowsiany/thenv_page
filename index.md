@@ -8,9 +8,24 @@ permalink: /
 categories:
   - Thenv
 ---
-# Tak wiem. Obecnie tutaj nic nie ma:)
 
-Jedynie możliwość zapisu na listę :).
+**Jeżeli borykasz się przynajmniej z jednym problemem z listy:**
+
+* jeżeli masz dość bałaganu na swoich ekranach,
+* nudzi cię długie przygotowanie środowiska do pracy.
+* chcesz zajmować się pracą, a nie nieustannym układaniem okienek,
+* chcesz używać układu okien w sposób spersonalizowany,
+* chcesz bez wykorzystać siłę nawyku do optymalizacji pracy na komputerze.
+
+
+**To zamierzam rozwiązać Twoje frustracje i zwiększyć komfort pracy.**
+Wystarczy, że się zapiszesz na listę dotyczącą mojego pomysłu o nazwie **Thenv**
+
+Dzięki obecności na liście, dołączysz do specjalnego grona użytkowników posiadających wieczny rabat w wysokości 25%.
+Ale to nie wszystko, będziesz też jedna z pierwszych osób mogących testować **Thenv**
+
+Zawsze możesz zrezygnować z obecności ;)
+Zapraszam!
 
 <div id="mc_embed_signup">
     <form action="https://gemustudio.us15.list-manage.com/subscribe/post?u=3be80412cad8b939995932c2a&amp;id=af9f9647da"
@@ -26,3 +41,4 @@ Jedynie możliwość zapisu na listę :).
         </div>
     </form>
 </div>
+
